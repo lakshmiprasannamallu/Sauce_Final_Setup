@@ -16,4 +16,5 @@ class SampleTest
                 'platform' => 'Windows 2012',
             )
         ),
+     );
  }
