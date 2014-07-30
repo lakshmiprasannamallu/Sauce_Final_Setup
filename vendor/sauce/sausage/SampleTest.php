@@ -12,7 +12,7 @@ class SampleTest extends Sauce\Sausage\WebDriverTestCase
         array(
             'browserName' => 'firefox',
             'desiredCapabilities' => array(
-                'version' => '15',
+                'version' => '28',
                 'platform' => 'Windows 2012',
             )
         ),
