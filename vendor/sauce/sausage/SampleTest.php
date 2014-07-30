@@ -2,7 +2,7 @@
 
 require_once 'vendor/autoload.php';
 
-class SampleTest extends Sauce\Sausage\WebDriverTestCase
+class SampleTest
 {
 
     protected $start_url = 'http://position2.com';
