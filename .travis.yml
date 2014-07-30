@@ -7,4 +7,4 @@ env:
   - secure: YU4m1yt2+KDSNoMB50Vk9xGIDlWHCFgHjvhVDrAir0rawkG3dXQqIV13pi9VQAt7i1B9jPrMka/axVPAo5SrMnFUbbbVuMckZw2FUyh1Ecw1PO9bqrfqLRxKVYPZQCcpIlmNxdLxw4UrcSUgFV9azhVTfRR6oMqbx4ZijRFjp7Y=
   - secure: JoC1wCK4EWFn9vXsaiWdJopvzU2T7VweiCUcP/5pY0t2V3UXUx0taUePkZ5GnSrAcVw57QOsxJ57TGbUzIGNCP4wtXBe5D/n4Cr9wJIuLWUz63ZxasHOdDZk3RStnIBPoE0imacZwokEYDTX6g3QswYksSLJ03RwFKwK0KRotRs=
   
-  script: build.sh
+
