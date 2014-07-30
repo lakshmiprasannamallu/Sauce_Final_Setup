@@ -3,6 +3,7 @@
 require_once 'vendor/autoload.php';
 
 require_once 'php-webdriver';
+class SampleTest extends Sauce\Sausage\WebDriverTestCase
 $wd = new WebDriver();
 $session = $wd->session();
 
